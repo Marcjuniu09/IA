@@ -5,7 +5,7 @@ Neste repositório, você encontrará alguns dos meus códigos de Redes Neurais 
 ## Conteúdo
 Os códigos deste repositório são organizados em pastas, de acordo com o tema e técnica utilizada. Alguns exemplos de pastas que você encontrará aqui são:
 
-single neuron: Como é o funcionamento de uma rede neural simples. Neste código uso regressão linear e função logistica para ver qual das duas é a melhor opção
+single neuron: Como é o funcionamento de uma rede neural simples. Neste código uso regressão linear e função logistica para ver qual das duas é a melhor opção.
 outros que ainda vou estudar...
 
 ## Como usar
